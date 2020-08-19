@@ -1,0 +1,4 @@
+this is test for a text editor
+print ("hello world")
+
+
