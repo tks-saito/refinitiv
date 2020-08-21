@@ -24,3 +24,4 @@ data_box = ["takashi-0","takashi-1","takashi-2"]
 
 print(data_box[0])
 print(data_box[1])
+
